@@ -1,4 +1,4 @@
-# ETW-Gone-Dark 
+# ETW-RIP
 
 ETW (Event Tracing for Windows) is a Windows logging mechanism that allows capturing and analyzing system events. Blue teamers, who focus on defending and securing systems, can leverage ETW for various purposes, including detection and analysis of security-related events. Antivirus (AV) software also utilizes ETW to enhance its capabilities in detecting and responding to threats.
 
